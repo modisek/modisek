@@ -1,4 +1,4 @@
-### Hi there 👋 am kgosietsile modise a fullstack developer from botswana
+### Hi there 👋 I am kgosietsile modise a fullstack developer from botswana
 
 <!--
 **modisek/modisek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
