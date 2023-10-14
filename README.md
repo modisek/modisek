@@ -1,6 +1,6 @@
-### Hi there 👋 I am Kgosietsile Modise 
-I am fullstack developer from botswana with an interest in cloud/devops, I know Html5, Css3 and Javascript(Node,React and Nextjs), python, but am platform and language agnostic and have used Java spring boot for my backend, Golang and also android development using java'linux is my preffred operating system.
-🌱 I’m currently terraform, ansible, aws
+### Kgosietsile Modise 
+I am a fullstack developer from Botswana with an interest in cloud/devops, I know Html5, Css3 and Javascript(Node,React and Nextjs), Python, but i am platform and language agnostic and have used Java Spring Boot for my backend, Golang and also Android development using Java.
+🌱 I’m currently learning Terraform, Ansible, Aws
 
 <!--
 **modisek/modisek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
